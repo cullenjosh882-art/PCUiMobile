@@ -1,0 +1,11 @@
+{
+  "geode": "3.0.0",
+  "gd": {
+    "android": "2.2074"
+  },
+  "id": "cullenjosh882-art.pcuimobile",
+  "name": "PC Ui Mobile",
+  "version": "v1.0.0",
+  "developer": "cullenjosh882-art",
+  "description": "Port of PC UI features for Geode Android."
+}
